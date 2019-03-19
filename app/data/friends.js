@@ -16,3 +16,5 @@ var friendsArr = [
         ]
     }
 ]
+
+module.exports 
